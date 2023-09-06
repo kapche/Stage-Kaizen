@@ -1,6 +1,6 @@
 # Stage-Kaizen
 logiciel de recrutement cree a kaizen solution 
-# Sleep Well : l'application de matching de cv et d'extraction 
+# Krecrute: l'application de matching de cv et d'extraction 
 
 ce logiciel a pour but d'extraire toutes les donnes pertinentes des cv et appel d'offre et de determiner quel est le cv qui a la plus grande note et le niveau de de matching par rapport a l'appel d'offe
 
